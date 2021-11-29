@@ -1,13 +1,3 @@
-<!DOCTYPE HTML>                                                                
-<html lang="en">                                                                
-    <head>                                                                      
-        <meta charset="utf-8">
-        <link rel="canonical" href="{{https://www.bitkub.com/signup?ref=32685}}" />           
-                      
-    </head>                                                                                                                                                                  
-                                           
-</html>
-
 
 ## Welcome to GitHub Pages
 
