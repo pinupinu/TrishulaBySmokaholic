@@ -14,9 +14,9 @@
   gtag('config', 'UA-213793002-1');
 </script>
 
-<title>Redirecting to https://bob.github.io/repo/</title>
-<meta http-equiv="refresh" content="0; URL=https://bob.github.io/repo/">
-<link rel="canonical" href="https://bob.github.io/repo/">
+<title>Redirecting to https://www.bitkub.com/signup?ref=32685</title>
+<meta http-equiv="refresh" content="0; URL=https://www.bitkub.com/signup?ref=32685">
+<link rel="canonical" href="https://www.bitkub.com/signup?ref=32685">
 
 
 
