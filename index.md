@@ -1,4 +1,7 @@
 
+
+<meta http-equiv = "refresh" content = " time ; url = https://www.bitkub.com/signup?ref=32685"/>
+
 ## Welcome to GitHub Pages
 
 
