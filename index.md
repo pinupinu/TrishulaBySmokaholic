@@ -9,16 +9,21 @@
   gtag('config', 'UA-213793002-1');
 </script>
 
+<!DOCTYPE HTML>                                                                
+<html lang="en">                                                                
+    <head>                                                                      
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="0;url={{https://www.bitkub.com/signup?ref=32685}}" />      
+        <link rel="canonical" href="{{https://www.bitkub.com/signup?ref=32685}}" />                    
+    </head>                                                                                                                                                                  
+    <body>                                                                      
+        <h1>                                                                    
+            The page been moved to <a href="{{https://www.bitkub.com/signup?ref=32685}}">{{https://www.bitkub.com/signup?ref=32685}}</a>
+        </h1>                                                                  
+    </body>                                                                    
+</html>
 
 
-<article>
-  <header>
-    <h1>A heading here</h1>
-    <p>Posted by John Doe</p>
-    <p>Some additional information here</p>
-  </header>
-  <p>Lorem Ipsum dolor set amet....</p>
-</article>
 
 
 ## Welcome to GitHub Pages
