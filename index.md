@@ -9,19 +9,11 @@
   gtag('config', 'UA-213793002-1');
 </script>
 
-<!DOCTYPE HTML>                                                                
-<html lang="en">                                                                
-    <head>                                                                      
-        <meta charset="utf-8">
-        <meta http-equiv="refresh" content="0;url={{https://www.bitkub.com/signup?ref=32685}}" />      
-        <link rel="canonical" href="{{https://www.bitkub.com/signup?ref=32685}}" />                    
-    </head>                                                                                                                                                                  
-    <body>                                                                      
-        <h1>                                                                    
-            The page been moved to <a href="{{https://www.bitkub.com/signup?ref=32685}}">{{https://www.bitkub.com/signup?ref=32685}}</a>
-        </h1>                                                                  
-    </body>                                                                    
-</html>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://bob.github.io/repo/</title>
+<meta http-equiv="refresh" content="0; URL=https://bob.github.io/repo/">
+<link rel="canonical" href="https://bob.github.io/repo/">
 
 ## Welcome to GitHub Pages
 
