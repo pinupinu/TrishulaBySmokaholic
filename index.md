@@ -5,12 +5,8 @@
         <meta http-equiv="refresh" content="0;url={{https://www.bitkub.com/signup?ref=32685}}" />      
         <link rel="canonical" href="{{https://www.bitkub.com/signup?ref=32685}}" />                    
     </head>                                                                                                                                                                  
-    <body>                                                                      
-        <h1>                                                                    
-            The page been moved to <a href="{{https://www.bitkub.com/signup?ref=32685}}">{{https://www.bitkub.com/signup?ref=32685}}</a>
-        </h1>                                                                  
-    </body>                                                                    
-</html>
+                                                           
+
 
 
 
@@ -55,3 +51,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+    
+    </html>
