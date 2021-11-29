@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+<title>Redirecting to https://www.bitkub.com/signup?ref=32685</title>
+<meta http-equiv="refresh" content="0; URL=https://www.bitkub.com/signup?ref=32685">
+<link rel="canonical" href="https://www.bitkub.com/signup?ref=32685">
 
 You can use the [editor on GitHub](https://github.com/pinupinu/Bitkub-invitation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,11 +37,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pinupinu/Bitkub-invitation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://www.bitkub.com/signup?ref=32685</title>
-<meta http-equiv="refresh" content="0; URL=https://www.bitkub.com/signup?ref=32685">
-<link rel="canonical" href="https://www.bitkub.com/signup?ref=32685">
+
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
