@@ -4,18 +4,7 @@
 <meta http-equiv="refresh" content="0; URL=https://www.bitkub.com/signup?ref=32685">
 <link rel="canonical" href="https://www.bitkub.com/signup?ref=32685">
 
-<head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213793002-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-213793002-1');
-</script>
-    </head>
 
 
 ## Welcome to GitHub Pages
